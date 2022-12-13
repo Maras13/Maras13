@@ -1,12 +1,16 @@
-<h1 align="center">Hi 👋, I'm Sara</h1>
+<h1 align="center">Hi, I'm Sara </h1>
+
+<h3 align="center">Data Science and Data Analytics instructor from Croatia</h3>
 
 
 
 - 🌱 I’m currently learning **NLP with Transformers**
 
-<h5 align="left">Connect with me:</h5>
+
+
+<h5 align="left">Feel free to connect with me:</h5>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sara-maras/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sara-maras/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sara-maras/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sara-maras/" height="20" width="30" /></a>
 </p>
 
 
