@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sara </h1>
 
-<h3 align="center">Data Science and Data Analytics instructor from Croatia</h3>
+<h3 align="center">Data Science and Data Analytics instructor at Spiced Academy/h3>
 
 
 
