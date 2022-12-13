@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sara </h1>
+<h1 align="center">Hi, I'm Sara 🙋🏻‍♀️ </h1>
 
 <h3 align="center">Data Science and Data Analytics instructor at Spiced Academy</h3>
   
@@ -6,7 +6,7 @@
   
   
   
-<h5 align="left">- 🔭 I’m currently working on **My portfolio website**</h5>
+<h5 align="left">- 🔭 I’m currently working on **My portfolio**</h5>
 
 
 
