@@ -10,7 +10,7 @@
 
 
 
-<h5 align="left"> - 🌱 I’m currently learning **Deep learning**</h5>
+<h5 align="left"> - 🌱 I’m currently learning **Deep learning, MLOps**</h5>
 
 
 
