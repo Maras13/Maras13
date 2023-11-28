@@ -4,13 +4,11 @@
   
   
   
-  
-  
-<h5 align="left">- 🔭 I’m currently working on **My portfolio**</h5>
 
 
 
-<h5 align="left"> - 🌱 I’m currently learning **Deep learning, MLOps**</h5>
+
+<h5 align="left"> - 🌱 I’m currently learning **MLOps**</h5>
 
 
 
