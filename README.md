@@ -8,7 +8,7 @@
 
 
 
-<h5 align="left"> - 🌱 I’m currently learning **MLOps**</h5>
+<h5 align="left"> - 🌱 I’m currently learning Marketing Analytics</h5>
 
 
 
